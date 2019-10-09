@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a849c17-08b5-41de-984f-7e85363fd391" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/gods/sec1/ch01/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gods/sec1/ch01/ex03/Heaps.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gods/sec1/ch01/pics/classfication-of-ds.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex01/minDepth.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex01/minDepth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offer/ex25/hasPath.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offer/ex26/movingCount.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offer/ex26/movingCount.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offer/ex27/cutRope.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offer/ex27/cutRope.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/offer/ex23/median.py" afterPath="$PROJECT_DIR$/offer/ex23/median.py" />
-      <change beforePath="$PROJECT_DIR$/offer/ex25/hasPath.py" afterPath="$PROJECT_DIR$/offer/ex25/hasPath.py" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex01/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex02/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex03/Heaps.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex04/adpter.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex05/bridge.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex06/composite.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex07/Decorator.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex08/Facade.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/ex09/Flyweight.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gods/sec1/ch01/pics/classfication-of-ds.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,58 +88,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="322">
-                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/ex02/main.go">
+      <file leaf-file-name="LinkedList.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/section02/ex01/LinkedList.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="e#614#626#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/ex01/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heaps.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/ex03/Heaps.go">
+      <file leaf-file-name="LinkedList_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/section02/ex01/LinkedList_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="82" column="38" lean-forward="false" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
-              <folding>
-                <element signature="e#604#639#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bridge.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/ex05/bridge.go">
+      <file leaf-file-name="doublyLinkedList_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gods/section02/ex02/doublyLinkedList_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="-579">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoublyLinkedList.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gods/section02/ex02/DoublyLinkedList.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -363,22 +343,21 @@
               <item name="go-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-learn" type="462c0819:PsiDirectoryNode" />
               <item name="gods" type="462c0819:PsiDirectoryNode" />
-              <item name="sec1" type="462c0819:PsiDirectoryNode" />
+              <item name="section02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-learn" type="462c0819:PsiDirectoryNode" />
               <item name="gods" type="462c0819:PsiDirectoryNode" />
-              <item name="sec1" type="462c0819:PsiDirectoryNode" />
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
+              <item name="section02" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-learn" type="462c0819:PsiDirectoryNode" />
               <item name="gods" type="462c0819:PsiDirectoryNode" />
-              <item name="sec1" type="462c0819:PsiDirectoryNode" />
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-              <item name="ex05" type="462c0819:PsiDirectoryNode" />
+              <item name="section02" type="462c0819:PsiDirectoryNode" />
+              <item name="ex02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Heaps.go">
+  <component name="RunManager" selected="Go Test.go test go-learn/gods/section02/ex02">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -486,6 +465,22 @@
       <kind value="DIRECTORY" />
       <package value="go-learn" />
     </configuration>
+    <configuration name="go test go-learn/gods/section02/ex01" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="go-learn" />
+      <working_directory value="$PROJECT_DIR$/gods/section02/ex01" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-learn/gods/section02/ex01" />
+    </configuration>
+    <configuration name="go test go-learn/gods/section02/ex02" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="go-learn" />
+      <working_directory value="$PROJECT_DIR$/gods/section02/ex02" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-learn/gods/section02/ex02" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -520,44 +515,6 @@
       <module name="go-learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/ex16/deleteDuplication.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="duplicate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer/ex12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="go-learn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/ex12/duplicate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="multiply" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer/ex13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="go-learn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/ex13/multiply.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -604,19 +561,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.duplicate" />
-      <item index="1" class="java.lang.String" itemvalue="Python.multiply" />
-      <item index="2" class="java.lang.String" itemvalue="Python.deleteDuplication" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build Heaps.go" />
+      <item index="0" class="java.lang.String" itemvalue="Python.deleteDuplication" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build Heaps.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Test.go test go-learn/gods/section02/ex01" />
+      <item index="4" class="java.lang.String" itemvalue="Go Test.go test go-learn/gods/section02/ex02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build Heaps.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go" />
-        <item index="2" class="java.lang.String" itemvalue="Python.deleteDuplication" />
-        <item index="3" class="java.lang.String" itemvalue="Python.multiply" />
-        <item index="4" class="java.lang.String" itemvalue="Python.duplicate" />
+        <item index="0" class="java.lang.String" itemvalue="Go Test.go test go-learn/gods/section02/ex02" />
+        <item index="1" class="java.lang.String" itemvalue="Go Test.go test go-learn/gods/section02/ex01" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build Heaps.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+        <item index="4" class="java.lang.String" itemvalue="Python.deleteDuplication" />
       </list>
     </recent_temporary>
   </component>
@@ -653,12 +610,20 @@
       <option name="presentableId" value="Default" />
       <updated>1570257010338</updated>
       <workItem from="1570257013782" duration="23691000" />
-      <workItem from="1570338843625" duration="73428000" />
+      <workItem from="1570338843625" duration="75373000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="go_test_go-learn_gods_section02_ex01 - 2019.10.09 at 16h 01m 20s.xml">
+      <configuration name="go test go-learn/gods/section02/ex01" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_go-learn_gods_section02_ex02 - 2019.10.09 at 16h 01m 38s.xml">
+      <configuration name="go test go-learn/gods/section02/ex02" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97119000" />
+    <option name="totallyTimeSpent" value="99064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -681,9 +646,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19479048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19479048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.638472" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -710,53 +675,23 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/gods/section02/ex01/LinkedList_test.go</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/offer/ex16/deleteDuplication.py</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Go/src/os/file.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="297" column="5" lean-forward="false" selection-start-line="297" selection-start-column="5" selection-end-line="297" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/demo01/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/demo02/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/demo02/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#59#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file/demo03/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1101,9 +1036,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#614#626#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,16 +1068,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="82" column="38" lean-forward="false" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
-          <folding>
-            <element signature="e#604#639#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gods/sec1/ch01/ex05/bridge.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/section02/ex01/LinkedList.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/section02/ex01/LinkedList_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/section02/ex02/doublyLinkedList_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gods/section02/ex02/DoublyLinkedList.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
