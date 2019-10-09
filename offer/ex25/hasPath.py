@@ -15,7 +15,37 @@
 # 因为字符串的第一个字符b占据了矩阵中的第一行第二个格子之后，
 # 路径不能再次进入该格子。
 
-
+# -*- coding:utf-8 -*-
 class Solution:
+    
     def hasPath(self, matrix, rows, cols, path):
         # write code here
+        flag = [False for _ in range(len(matrix))]
+        for i in range(rows):
+            for j in range(cols):
+                # 遍历
+                if self.judge(matrix, rows, cols, flag, i, j, path, 0):
+                    return True
+        return False
+
+    def judge(self, matrix, rows, cols, flag, i, j, path, level):
+        index = i * cols + j
+        # 判断越界条件,递归终止条件
+        if i >= rows or j >= cols or i < 0 or j < 0 or \
+                matrix[index] != path[level] or \
+                flag[index] == True:
+            return False
+
+        if level == len(path) - 1:
+            return True
+
+        flag[index] = True
+
+        if (self.judge(matrix, rows, cols, flag, i + 1, j, path, level + 1) or \
+                self.judge(matrix, rows, cols, flag, i, j + 1, path, level + 1) or \
+                self.judge(matrix, rows, cols, flag, i - 1, j, path, level + 1) or \
+                self.judge(matrix, rows, cols, flag, i, j - 1, path, level + 1)):
+            return True
+
+        flag[index] = False
+        return False

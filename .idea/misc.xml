@@ -3,4 +3,5 @@
   <component name="ErlangCompilerOptions">
     <useRebarCompiler>true</useRebarCompiler>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
