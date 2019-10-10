@@ -6,17 +6,27 @@
  */
 public class Solution {
     public int run(TreeNode root) {
-
-    }
-
-    // Definition for binary tree
-    private class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
+        if (root == null) {
+            return 0;
         }
+        return findLeaf(root, 1);
     }
+
+    private int findLeaf(TreeNode head, int level) {
+        if (head.left == null && head.right == null) {
+            return level;
+        } else if (head.left == null && head.right != null) {
+            return findLeaf(head.right, level + 1);
+        } else if (head.left != null && head.right == null) {
+            return findLeaf(head.left, level + 1);
+        } else {
+            int left = findLeaf(head.left, level + 1);
+            int right = findLeaf(head.right, level + 1);
+            return left > right ? right : left;
+        }
+
+    }
+}
+
+
 }
