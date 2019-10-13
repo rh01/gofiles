@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a849c17-08b5-41de-984f-7e85363fd391" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex16/longestPalindrome.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex17/maxSubArray.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex17/maxSubArray.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lcode/ex18/uniquePaths.go" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6a849c17-08b5-41de-984f-7e85363fd391" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -597,7 +591,7 @@
       <workItem from="1570257013782" duration="23691000" />
       <workItem from="1570338843625" duration="75565000" />
       <workItem from="1570668053450" duration="9460000" />
-      <workItem from="1570776379436" duration="1131000" />
+      <workItem from="1570776379436" duration="1724000" />
     </task>
     <servers />
   </component>
@@ -610,7 +604,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109847000" />
+    <option name="totallyTimeSpent" value="110440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
