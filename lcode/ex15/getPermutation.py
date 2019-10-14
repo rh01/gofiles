@@ -48,11 +48,7 @@ class Solution(object):
             k-=1
             if k == 0:
                 return curnums
-        # if len(nums) == 0:
-        #     #curtime+=1
-        #     if k == 0:
-        #         res.append(curnums)
-               # return
+     
         for idx, val in enumerate(nums):
             self.walk(res, nums[:idx]+nums[idx+1:], curnums+[val], k)
 

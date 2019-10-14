@@ -23,9 +23,6 @@ func minDepth(root *TreeNode) int {
 }
 
 func depth(cRoot *TreeNode, level int) int {
-	// if cRoot == nil {
-	// 	return level - 1
-	// }
 	if cRoot.Left == nil && cRoot.Right == nil {
 		return level
 	} else if cRoot.Left == nil && cRoot.Right != nil {
