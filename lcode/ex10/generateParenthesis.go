@@ -20,6 +20,7 @@ var res []string
 
 func generateParenthesis(n int) []string {
 	res = make([]string, 0)
+	
 	walk("", 0, 0, n)
 	return res
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a849c17-08b5-41de-984f-7e85363fd391" name="Default" comment="" />
+    <list default="true" id="6a849c17-08b5-41de-984f-7e85363fd391" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uniquePaths.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="uniquePaths.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lcode/ex18/uniquePaths.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -62,6 +64,16 @@
               <folding>
                 <element signature="e#173#185#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isScramble.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lcode/ex35/isScramble.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -228,11 +240,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="63" />
-    <option name="y" value="-9" />
-    <option name="width" value="1728" />
-    <option name="height" value="918" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-31" />
+    <option name="y" value="188" />
+    <option name="width" value="1875" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -339,6 +351,12 @@
               <item name="go-learn" type="462c0819:PsiDirectoryNode" />
               <item name="lcode" type="462c0819:PsiDirectoryNode" />
               <item name="ex18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="lcode" type="462c0819:PsiDirectoryNode" />
+              <item name="ex35" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -591,7 +609,7 @@
       <workItem from="1570257013782" duration="23691000" />
       <workItem from="1570338843625" duration="75565000" />
       <workItem from="1570668053450" duration="9460000" />
-      <workItem from="1570776379436" duration="1724000" />
+      <workItem from="1570776379436" duration="2556000" />
     </task>
     <servers />
   </component>
@@ -604,10 +622,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110440000" />
+    <option name="totallyTimeSpent" value="111272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,13 +690,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/offer/ex17/GetNext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/offer/ex17/GetNext.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -997,6 +1008,14 @@
           <folding>
             <element signature="e#173#185#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcode/ex35/isScramble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
