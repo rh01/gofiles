@@ -1,5 +1,6 @@
+#-*-coding:utf-8-*-
 class Solution(object):
-    def spiralOrder(self, matrix):
+    def spiralOrder(self, matrix,):
         """
         :type matrix: List[List[int]]
         :rtype: List[int]
