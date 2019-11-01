@@ -45,7 +45,7 @@ func findMaximizedCapital(k int, W int, Profits []int, Capital []int) int {
 
 		W += mx
 		if k < len(ar) {
-			copy(ar[k:], ar[k+1:])
+			copy(ar[k:], ar[k+1:]) // copy ar[k+1:] to ar[K:], and remove the last
 			ar = ar[:len(ar)-1]
 		}
 	}
