@@ -6,10 +6,21 @@ package main
 
 import "fmt"
 
-// func convertToTitle(n int) string {
-
-// }
+// 168
+func convertToTitle(n int) string {
+	res := ""
+	for n != 0 {
+		tmp := (n-1) % 26
+		n = (n - tmp) / 26
+		// fmt.Println(string(byte(tmp + 65)))
+		res = string(byte(tmp+65)) + res
+	}
+	return res
+}
 
 func main() {
-	fmt.Println('A','Z')
+	fmt.Println('A', 'Z')
+	fmt.Println(convertToTitle(26))
+	fmt.Println(convertToTitle(28))
+	fmt.Println(convertToTitle(701))
 }
