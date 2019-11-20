@@ -12,16 +12,14 @@ func abs(num int) int {
 
 func findDisappearedNumbers(nums []int) []int {
 	for i := 0; i < len(nums); i++ {
-		if nums[i] > 0 {
-			nums[abs(nums[i])-1] = -abs(nums[abs(nums[i])-1])
-		}
+		nums[abs(nums[i])-1] = -abs(nums[abs(nums[i])-1])
 	}
 
 	res := []int{}
 
 	for i := 0; i < len(nums); i++ {
 		if nums[i] > 0 {
-			res = append(res, nums[i]+1)
+			res = append(res, i+1)
 		}
 	}
 	return res
