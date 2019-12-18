@@ -14,5 +14,5 @@ func partition(s string) [][]string {
 
 func dfs(cur int, curset *[]string) {
 	res = append(res, *curset)
-	
+
 }
