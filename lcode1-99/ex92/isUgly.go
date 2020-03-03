@@ -10,7 +10,7 @@ func isUgly(num int) bool {
 	}
 
 	for num%5 == 0 {
-		num /= 2
+		num /= 5
 	}
 
 	for num%3 == 0 {

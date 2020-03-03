@@ -1,8 +1,8 @@
 package main
 
 import (
-	"runtime"
 	"fmt"
+	"runtime"
 )
 
 func main() {
@@ -16,7 +16,9 @@ func main() {
 	// 若 n < 1，它就不会更改当前设置。
 	// 本地机器的逻辑CPU数可通过 NumCPU 查询。
 	// 本函数在调度程序优化后会去掉。
-	if pre := runtime.GOMAXPROCS(2); pre < 1 {
+	var pre int
+	if pre = runtime.GOMAXPROCS(2); pre < 1 {
 		fmt.Println("use pre config")
 	}
+	fmt.Println(pre)
 }

@@ -3,7 +3,7 @@
 declare -i i=1
 declare -i uphosts=0
 declare -i downhosts=0
-net='172.16.3'
+net='192.168.0'
 
 while [ $i -le 254 ]; do
     ping -c 1 -w 1 $net.$i &> /dev/null
