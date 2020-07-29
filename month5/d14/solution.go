@@ -5,15 +5,17 @@ func subarraySum(nums []int, k int) int {
 	cnt := 0
 	for i, v := range nums {
 		s = s + v
-		if v, exist := hmap[s]; !exist {
-			hmap[s] = []int{i}
-		} else {
-			hmap[s] = append(hmap[s], i)
-		}
+		
 		// subsum = append(subsum, s)
 		want := s - k
 		if v, ok := hmap[want]; ok {
 			cnt += len(v)
+		}
+
+		if v, exist := hmap[s]; !exist {
+			hmap[s] = []int{i}
+		} else {
+			hmap[s] = append(hmap[s], i)
 		}
 	}
 	return cnt
